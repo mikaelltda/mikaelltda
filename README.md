@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mikael!
+# 👋 Hi, I'm Miguel!
 
 💻 I'm a programming enthusiast and a student at the **University of Brasília (UnB)**, passionate about technology, problem-solving, and continuous learning. I'm always looking for opportunities to improve my skills and build projects that turn ideas into practical solutions.
 
