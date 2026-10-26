@@ -34,5 +34,5 @@ Check out my repositories to explore my projects, follow my progress, and see wh
 ---
 
 <div align="center">
-  <i>"One step at a time, one line of code at a time."</i>
+  <i>"Sometimes you gotta hop off multiplayer and start griding story mode"</i>
 </div>
