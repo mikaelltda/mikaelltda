@@ -1,8 +1,8 @@
-# 👋 Olá! Eu sou Mikael
+# 👋 Hi, I'm Mikael!
 
-💻 Estudante de programação e tecnologia, sempre buscando aprender coisas novas e desenvolver projetos que transformem ideias em soluções.
+💻 I'm a programming enthusiast and a student at the **University of Brasília (UnB)**, passionate about technology, problem-solving, and continuous learning. I'm always looking for opportunities to improve my skills and build projects that turn ideas into practical solutions.
 
-## 🚀 Tecnologias
+## 🚀 Technologies & Tools
 
 <div align="left">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
@@ -11,22 +11,28 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 </div>
 
-## 📚 Sobre mim
+## 🎯 Areas of Interest
 
-- 🎯 Aprendendo e aprimorando minhas habilidades em programação.
-- 🛠️ Desenvolvendo projetos para colocar meus conhecimentos em prática.
-- 🌐 Explorando o desenvolvimento web com HTML e CSS.
-- 🐍 Trabalhando com Python e aprendendo os fundamentos da lógica de programação com C.
-- 🚀 Sempre aberto a novos desafios e oportunidades de aprendizado.
+- 📊 **Data Science** — Exploring data to discover patterns and generate insights.
+- 📈 **Data Visualization** — Turning complex data into clear and meaningful visual representations.
+- 🤖 **Machine Learning** — Exploring algorithms and models that learn from data.
 
-## 📌 Confira meus projetos
+## 📚 About Me
 
-Explore meus repositórios para acompanhar meus projetos, minha evolução e minhas experiências com programação.
+- 🎓 Student at the **University of Brasília (UnB)**.
+- 🌱 Constantly learning and improving my programming skills.
+- 🛠️ Building projects to apply my knowledge and gain practical experience.
+- 🐍 Practicing programming and problem-solving with Python and C.
+- 🚀 Interested in new challenges, collaboration, and opportunities to grow.
 
-🔗 **[Acesse meu GitHub](https://github.com/mikaelltda)**
+## 📌 Featured Projects
+
+Check out my repositories to explore my projects, follow my progress, and see what I'm building.
+
+🔗 **[Explore my GitHub repositories](https://github.com/mikaelltda)**
 
 ---
 
 <div align="center">
-  <i>"Um passo de cada vez, uma linha de código por vez."</i>
+  <i>"One step at a time, one line of code at a time."</i>
 </div>
